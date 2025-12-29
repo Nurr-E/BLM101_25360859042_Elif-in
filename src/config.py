@@ -1,0 +1,6 @@
+KONU_ADI = "VERİ MANİPÜLASYONU VE MANTIK KAPILARI"
+AD = "Elif"
+SOYAD = "ÇİN"
+TAM_AD = f"{AD} {SOYAD}"
+ÖĞRENCİ_NO = "25360859042"
+EMAIL = "nurcinn21@gmail.com"
